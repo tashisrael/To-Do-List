@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-- [Live Demo Link]().
+- [Live Demo Link](https://tashisrael.github.io/To-Do-List/dist/).
 
 ## Getting Started
 
