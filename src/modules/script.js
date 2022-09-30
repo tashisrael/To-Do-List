@@ -15,7 +15,7 @@ export default class Todolist {
     const displayList = list.map((list, index) => `<li class="list-item " 
       id="${index}"><div class="inline">
       <input id="box-check" type=checkbox class="box-check" name="checkbox">
-      </div> <input type="text" class="to-do input-text" 
+      </div> <input type="text" id="xx" class="to-do input-text" 
       value="${list.description}" >
       <div class="ellipsis-container">
       <i class="fa-solid fa-ellipsis-vertical">
