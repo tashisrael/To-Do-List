@@ -116,5 +116,5 @@ input[type="checkbox"] {
 }
 
 .fa-ellipsis-vertical {
-  cursor: pointer;
+  cursor: move;
 }
